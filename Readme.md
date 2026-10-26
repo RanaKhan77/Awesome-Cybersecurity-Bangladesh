@@ -101,7 +101,7 @@ A curated list of Cybersecurity Companies, University Clubs, Bachelor's Degrees,
 - **My API Testing Methodology 2024: Not a Roadmap, Not a Checklist** — [Link](https://medium.com/@foysol60s/my-api-testing-methodology-2024-not-a-roadmap-not-a-checklist-ad9eebb05780).
 - **A Cyber Security Roadmap 2026 by InferiorAK** — [Link](https://medium.com/the-first-digit/a-cyber-security-roadmap-2026-by-inferiorak-922106a1c72c).
 - **HowJSON-JavaScript Discrepancy Leads to RCE(Lodash)** — [Link](https://mushroom.cat/ctf/json-js-rce-lodash).  
-- **Website Vulnerability Scanner** — open-source scanner with 295 deterministic modules: XSS, SQLi, SSRF, subdomain takeover, OWASP Top 10, WordPress, MCP & AI/LLM security. Self-hosted, Docker, CVSS-scored reports - [Link](https://github.com/RanaKhan77/Website-Vulnerability-Scanner).
+- **Website Vulnerability Scanner** — open-source scanner with 202 deterministic modules (295 in the managed edition): XSS, SQLi, SSRF, subdomain takeover, OWASP Top 10, WordPress, MCP & AI/LLM security. Self-hosted, Docker, CVSS-scored reports - [Link](https://github.com/RanaKhan77/Website-Vulnerability-Scanner).
 - **Exposure Check OSINT** — self-hosted OSINT exposure checker: is your email, username, phone or password leaked? 22 keyless sources, HIBP k-anonymity, 150-platform username grid, no API keys - [Link](https://github.com/RanaKhan77/Exposure-Check-OSINT).
 
 ---
