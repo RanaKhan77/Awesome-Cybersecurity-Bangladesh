@@ -33,6 +33,7 @@ A curated list of Cybersecurity Companies, University Clubs, Bachelor's Degrees,
 | **Byte Capsule**  | 15 Indira Road (Level 4) Farmgate, Dhaka - 1215 Bangladesh | [https://bytecapsuleit.com/](https://bytecapsuleit.com/) | Provide the security solutions and essential training programs on Cyber Security and Ethical Hacking. |
 | **Oriole Security**  |  Dhaka, Bangladesh | [https://oriolesecurity.com/](https://oriolesecurity.com/) | Goal is to create a secure environment that ensures your online presence from malicious hackers. |
 | **Security Talent** | Rajshahi, Bangladesh | https://securitytalent.net/ | Penetration Testing (Web, API & Android Application), Malware Analysis, Secure Code Review, and Security Consulting. |
+| **2MNY Security** | Dhaka, Bangladesh | https://2mny.com/ | Web security scanning platform, OSINT exposure checks and bug bounty automation, built in Bangladesh. |
 ---
 
 ## University Clubs
@@ -100,6 +101,8 @@ A curated list of Cybersecurity Companies, University Clubs, Bachelor's Degrees,
 - **My API Testing Methodology 2024: Not a Roadmap, Not a Checklist** — [Link](https://medium.com/@foysol60s/my-api-testing-methodology-2024-not-a-roadmap-not-a-checklist-ad9eebb05780).
 - **A Cyber Security Roadmap 2026 by InferiorAK** — [Link](https://medium.com/the-first-digit/a-cyber-security-roadmap-2026-by-inferiorak-922106a1c72c).
 - **HowJSON-JavaScript Discrepancy Leads to RCE(Lodash)** — [Link](https://mushroom.cat/ctf/json-js-rce-lodash).  
+- **Website Vulnerability Scanner** — open-source web security scanner: XSS, SQLi, SSRF, subdomain takeover, OWASP Top 10, WordPress, MCP & AI/LLM security. Self-hosted, Docker, CVSS-scored reports - [Link](https://github.com/RanaKhan77/Website-Vulnerability-Scanner).
+- **Exposure Check OSINT** — self-hosted OSINT exposure checker: is your email, username, phone or password leaked? Keyless sources, HIBP k-anonymity, multi-platform username grid, no API keys - [Link](https://github.com/RanaKhan77/Exposure-Check-OSINT).
 
 ---
 
